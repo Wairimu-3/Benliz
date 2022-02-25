@@ -1,7 +1,7 @@
-$('#portfolio a').nivoLightbox({
-  effect: 'fadeScale',
-});
+// $('#portfolio a').nivoLightbox({
+//   effect: 'fadeScale',
+// });
 
-$('.navbar-collapse a').click(function () {
-  $(".navbar-collapse").collapse('hide');
-});
+// $('.navbar-collapse a').click(function () {
+//   $(".navbar-collapse").collapse('hide');
+// });
