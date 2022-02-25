@@ -79,6 +79,7 @@ img {
     margin: 0 !important;
     position: relative;
     top: 20px;
+    padding-bottom: 60px;
   }
 .navbar-default .navbar-brand {
     font-size: 40px;
